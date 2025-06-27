@@ -36,6 +36,9 @@ EduBridge is a socially impactful AI-powered educational platform designed speci
 - **Device Compatibility**: Runs on low-resource devices like Raspberry Pi
 - **Progressive Loading**: Fast initial load, enhanced features load progressively
 
+  ![Uploading image.png…]()
+
+
 ## 🚀 Technology Stack
 
 ### Frontend
